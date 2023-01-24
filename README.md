@@ -14,7 +14,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>  
     <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40" /> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40" /> </a>
-    <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="terminal" width="40" height="40" /> </a>
+    <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" alt="terminal" width="40" height="40" /> </a>
 </p>
 
 #### 🎵 Music is the voice of the soul
