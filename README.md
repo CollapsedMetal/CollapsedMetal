@@ -19,6 +19,3 @@
 
 #### 🎵 Music is the voice of the soul
 [![Spotify](https://novatorem.collapsedmetal.vercel.app/api/spotify)](https://open.spotify.com/user/crazy_nights)
-
-#### 📈 Some stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=CollapsedMetal&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
